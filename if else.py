@@ -6,3 +6,7 @@ If n is even and greater than 20 , print Not Weird
 """
 
 number = int(input("Enter a number: "))
+
+if number%2 == 1:
+    print("Wired")
+    
