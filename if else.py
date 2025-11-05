@@ -43,3 +43,7 @@ elif age <= 19:
     print("Teenager")
 elif age <= 35:
     print("Young Adult")
+elif age <= 59:
+    print("Adult")
+else:
+    print("Senior Citizen")
