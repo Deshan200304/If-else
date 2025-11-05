@@ -35,3 +35,5 @@ Negative age	Invalid input
 
 age = int(input("Enter yoir age:  "))
 
+if age < 0:
+     print("Invalid Input")
