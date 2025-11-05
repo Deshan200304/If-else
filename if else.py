@@ -33,3 +33,5 @@ Age Range	Output
 Negative age	Invalid input
 """
 
+age = int(input("Enter yoir age:  "))
+
