@@ -37,3 +37,5 @@ age = int(input("Enter yoir age:  "))
 
 if age < 0:
      print("Invalid Input")
+elif age <= 12:
+     print("Child")
