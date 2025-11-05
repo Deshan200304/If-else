@@ -17,3 +17,19 @@ elif number%2 == 0 and 6 <= number <= 20:
 
 elif number%2 == 0 and number > 20:
      print("Not Weird")
+
+
+
+"""
+new question
+Write a Python program that reads a person's age and prints their life stage based on the following rules:
+
+Age Range	Output
+0–12	Child
+13–19	Teenager
+20–35	Young Adult
+36–59	Adult
+60+	Senior Citizen
+Negative age	Invalid input
+"""
+
